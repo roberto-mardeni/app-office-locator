@@ -1,3 +1,5 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/1e829690-2eed-4419-ba63-799123a40664/branches/master/badge)](https://appcenter.ms)
+
 # Office Locator - Connect your customers with your services
 
 Office Locator is a cross-platform Xamarin.Forms pre-built application & template enabling you to easily connect with your customers and manage your shops. All powered by [Xamarin](http://www.xamarin.com), [Xamarin.Forms](http://www.xamarin.com/forms), and  a powerful Azure Mobile Apps backend with 100% shared C# code across iOS, and Android.  This app is based on [@JamesMontemagno](http://www.twitter.com/jamesmontemagno)'s [My Shoppe](https://github.com/jamesmontemagno/myshoppe) app.
